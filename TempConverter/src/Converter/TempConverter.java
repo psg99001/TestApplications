@@ -2,7 +2,7 @@ package Converter;
 
 public class TempConverter {
 	
-	public float convertFromCelciusToFarenheit(float celcius) {
+	public floatconvertFromCelciusToFarenheit(float celcius) {
 		
 		if (celcius < 0.0)
 			return -1;
